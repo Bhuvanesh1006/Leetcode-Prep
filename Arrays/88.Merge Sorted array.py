@@ -1,4 +1,4 @@
-#Most optimal solution
+#Most optimal solution- Two pointers used
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         last=m + n -1
